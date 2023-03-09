@@ -1,8 +1,8 @@
 # Hello World - Basic Web3 App
 
-This is a basic web3 app that interacts with the [helloworld.sol](blockchain/helloworld.sol) contract on the Polygon Mumbai Testnet.
+This is a basic web3 app with an interface styled using Bootstrap that interacts with the [helloworld.sol](blockchain/helloworld.sol) contract on the Polygon Mumbai Testnet.
 
-The interface is styled using Bootstrap.
+The HelloWorld.sol contract stores a string on the blockchain representing a message, and the auto-updating ui allows you to view and update the message stored on the blockchain.
 
 Connect your wallet using MetaMask, and switch to the Mumbai testnet to try it out!
 
