@@ -12,7 +12,7 @@ View the Contract on [Polyscan Mumbai](https://mumbai.polygonscan.com/address/0x
 
 1. Clone the repository
 2. CD into the repository root directory
-3. Open the index.html file in your browser of preference
+3. Open the `index.html` file in your browser of preference
 
 ## Webapp Demo:
 
