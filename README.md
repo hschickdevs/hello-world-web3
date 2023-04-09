@@ -13,6 +13,6 @@ View the Contract on [Polyscan Mumbai](https://mumbai.polygonscan.com/address/0x
 1. Clone the repository
 2. Open the `index.html` file in your browser of preference
 
-## Webapp Demo:
+## Screenshot:
 
 ![img](https://i.ibb.co/XJyyCVL/Screen-Shot-2023-03-08-at-6-53-36-PM.png)
